@@ -1,0 +1,11 @@
+# M05 verification batch — app context #62
+
+**Source** https://github.com/cmiloarevalo-hash/Lago-1/issues/62; historical P05 decisions, no permission to use unlicensed texts. Body + 4 original comments compared with exact body, SHA-256, length, Git tree SHA. **PASS 5/5**.
+
+| Source item | Archived path | Source UTC | Original SHA-256 | Git blob | Match | Status |
+|---|---|---|---|---|---|---|
+| [body](https://github.com/cmiloarevalo-hash/Lago-1/issues/62) | [research/archive/context/issue-62/issue-body.md](../archive/context/issue-62/issue-body.md) | 2026-10-08T18:27:48Z | `a8dbf7f6d30945f8440b624cf705c64eb910c65d52b05a41c38ed8b779acd299` | `b8bc8e94fdd5152ac8d42bc318566a9e58577bfb` | **PASS** | HISTORICAL/P05 ACCEPTED DEFINITION ONLY |
+| [6066491252](https://github.com/cmiloarevalo-hash/Lago-1/issues/62#issuecomment-6066491252) | [research/archive/context/issue-62/6066491252.md](../archive/context/issue-62/6066491252.md) | 2026-10-08T18:31:35Z | `de7c838c85073eac70aa7a900fc8e4b5e1fab6c73b9d30dbb859da010978f1cf` | `b95ab3e1eb0c936e7d5e62b9dc935e7fbbab6506` | **PASS** | HISTORICAL/P05 ACCEPTED DEFINITION ONLY |
+| [6066873123](https://github.com/cmiloarevalo-hash/Lago-1/issues/62#issuecomment-6066873123) | [research/archive/context/issue-62/6066873123.md](../archive/context/issue-62/6066873123.md) | 2026-10-08T18:54:18Z | `e79e3c83c76a39fb74b54e7a22e80b31c6476da87e9aecf70f40d4c3540e94a1` | `3ead9c142e4571a81cce8ac4daf1f09f7ebb6b24` | **PASS** | HISTORICAL/P05 ACCEPTED DEFINITION ONLY |
+| [6066949536](https://github.com/cmiloarevalo-hash/Lago-1/issues/62#issuecomment-6066949536) | [research/archive/context/issue-62/6066949536.md](../archive/context/issue-62/6066949536.md) | 2026-10-08T18:58:45Z | `df1fef9eeef6ec5eebea9747bfc3f541a1826d164c8969cdf979db5992a7378c` | `6d0baa13b778dd515915258e0cbed45a40abed83` | **PASS** | HISTORICAL/P05 ACCEPTED DEFINITION ONLY |
+| [6070060697](https://github.com/cmiloarevalo-hash/Lago-1/issues/62#issuecomment-6070060697) | [research/archive/context/issue-62/6070060697.md](../archive/context/issue-62/6070060697.md) | 2026-10-08T22:12:24Z | `3781a1372a37edf3449a5ceb0e9f204fdd27cd1a7c5fe17bfe8baef9bae8f8a4` | `1eaea5f8e09a9df2be83bfa61214e7084eebac6d` | **PASS** | HISTORICAL/P05 ACCEPTED DEFINITION ONLY |
